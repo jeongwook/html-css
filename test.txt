@@ -1,2 +1,0 @@
-Test - opening sublime through cmder (subl test.txt).
-Cmder -> sublime -> edit -> commit.
